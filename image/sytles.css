@@ -1,0 +1,79 @@
+*,
+body,
+html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.MAIN {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.HeadOfjurnal {
+    padding-left: relative;
+    padding-right: relative;
+    padding-top: 10px;
+}
+
+.judul {
+    text-align: center;
+    padding-top: 12px;
+    font-size: 20px;
+}
+
+.subjudul {
+    text-align: center;
+    font-size: 18px;
+}
+
+.penulis {
+    text-align: center;
+    font-size: 16px;
+}
+
+.Tanggal {
+    text-align: end;
+    padding-bottom: 10px;
+    font-size: 10px;
+}
+
+hr {
+    border-width: 5px;
+}
+
+.latar {
+    font-size: 18px;
+}
+
+.rumus {
+    font-size: 18px;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+.par1 {
+    font-size: 18px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    text-align: justify;
+}
+
+.ISI {
+    padding-right: 300px;
+    text-align: justify;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.butirmasalah {
+    padding-left: 30px;
+}
+
+
+    
